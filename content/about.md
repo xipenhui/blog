@@ -6,4 +6,9 @@ draft: false # 设为 false 使其可见
 
 这里是关于我的页面。
 
-你可以编辑这个文件 (`content/about.md`) 来添加更多关于你的信息。 
+# Start of Selection
+# Start of Selection
+你可以编辑这个文件 (`content/about.md`) 来添加更多关于你的信息。这里是一些示例内容，你可以在这里介绍你的背景、兴趣和职业经历。分享你喜欢的技术、项目或任何你认为有趣的事情。希望这些信息能帮助读者更好地了解你！你还可以在这里添加图片和链接，以便更生动地展示你的故事。例如，插入一张你的照片或链接到你喜欢的项目。
+# End of Selection
+
+![示例图片](/images/a.jpg "图片A")
