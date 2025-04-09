@@ -1,0 +1,36 @@
+baseURL = 'https://xipenhui.github.io/blog/'
+languageCode = 'zh-cn'
+title = '超级土豆博客'
+theme = "ananke"
+DefaultContentLanguage = "zh-cn"
+MetaDataFormat = "toml"
+
+[params]
+  description = "欢迎来到超级土豆博客！"
+  github = "https://github.com/xipenhui"
+  twitter = "https://twitter.com/example"
+
+[[menu.main]]
+  name = "首页"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "所有文章"
+  url = "/posts/"
+  weight = 20
+
+[[menu.main]]
+  name = "分类"
+  url = "/categories/"
+  weight = 30
+
+[[menu.main]]
+  name = "关于我"
+  url = "/about/"
+  weight = 40
+
+# 添加构建配置以禁用 JS/CSS 处理
+[build]
+  noJSProcessing = true
+  noCSSProcessing = true
