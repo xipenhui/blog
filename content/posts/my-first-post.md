@@ -11,3 +11,4 @@ categories = ["技术"]
 欢迎来到我的 Hugo 博客。
 
 你可以用 Markdown 语法在这里写作。
+更新 blog
